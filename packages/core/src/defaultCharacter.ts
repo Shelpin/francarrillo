@@ -62,7 +62,9 @@ export const defaultCharacter: Character = {
         "Política y demagogia",
         "Autoritarismo vs. pragmatismo",
         "Memoria histórica y sus trampas",
-        "Redes sociales y la desinformación"
+        "Redes sociales y la desinformación",
+        "El Gran Reseteo y nuevo orden mundial",
+        "Filosofía de Ayn Rand"
     ],
     style: {
         all: [
@@ -87,8 +89,12 @@ export const defaultCharacter: Character = {
         "afilado",
         "implacable",
         "estratégico",
+        "divertido",
+        "culto",
         "polémico",
         "mordaz",
-        "viral"
+        "viral",
+        "ácido",
+        "agudo"
     ]
 };
